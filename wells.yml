@@ -1,0 +1,9 @@
+wells:
+  rate:
+    locations: [5.0, 1495.0]
+    values: [10000, -10000]
+    radii: [0.25, 0.25]
+  bhp:
+    locations: [500.0, 1000.0]
+    values: [2200.0, 2000.0]
+    radii: [0.25, 0.25]

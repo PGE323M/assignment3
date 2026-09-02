@@ -1,0 +1,9 @@
+well1, producing, 0
+well2, shut-in, 0
+well3, shut-in, 0
+well2, injecting, 2000
+well3, producing, 3000
+well1, injecting, 3000
+well1, shut-in, 7000
+well2, shut-in, 7000
+well3, shut-in, 7000
